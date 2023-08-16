@@ -10,12 +10,12 @@ let's go through the code you provided and explain its different sections, HTML 
 Header (Navbar) Section:
 This section contains the top navigation bar with the Flipkart logo, search bar, login button, and various links.
 
-HTML tags used: <header>, <div>, <img>, <p>, <input>, <span>, <button>, <ul>, <li>
+HTML tags used:  <header>, <div>, <img>, <p>, <input>, <span>, <button>, <ul>, <li>
 CSS properties used: display, justify-content, align-items, padding, margin, color, font-size
 Item Links Section:
 This section contains a list of items with images and their corresponding categories.
 
-HTML tags used: <section>, <div>, <a>, <img>, <p>, <i> (for material icons)
+HTML tags used:  <section>, <div>, <a>, <img>, <p>, <i> (for material icons)
 CSS properties used: display, flex-direction, align-items, margin, padding, color
 CSS and Material Icons:
 You have included the Material Icons font using the <link> tag from Google Fonts to use iconography throughout the page. Icons are inserted using the <i> tag with appropriate class names for Material Icons.
